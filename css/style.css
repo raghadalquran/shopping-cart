@@ -1,0 +1,44 @@
+body{
+    font-family: 'Kalam', cursive;
+    background-color:  #ffffcc;
+    
+
+}
+main {
+    padding: 25px;
+}
+h1{
+padding: 50px;
+background-color:  #ff9f80;
+text-align: center;
+font-size: -webkit-xxx-large;
+font-family: 'Permanent Marker', cursive;
+
+/* font-family: 'Shadows Into Light', cursive;  */
+}
+nav {
+    text-align: center;
+
+}
+
+ ul li{
+    display: inline;
+    text-decoration: none;
+    padding: 20px;
+    font-size: x-large;
+
+
+}
+ul { 
+    padding: 18px;
+    text-align: center;
+    margin-top: -49px;}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+footer{
+    padding: 25px;
+
+}
